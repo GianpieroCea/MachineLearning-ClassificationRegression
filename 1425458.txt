@@ -1,0 +1,6 @@
+—————CS342 Feedback on Assignment 1/ 2018——————— 
+
+Excellent performance with an AUC of 0.74 and R^2 of 0.78. Excellent coding effort and report.
+
+Well done!
+15/15
