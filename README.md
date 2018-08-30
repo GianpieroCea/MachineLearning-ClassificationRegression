@@ -11,8 +11,8 @@ By working through this project I was able ,among other things, of learning the 
 - Hyperparemteres optimization via grid search
 - Feature Selection
 - Classification algorithms:
-    -kNN algorithm
-    -Decision Tree classifier
+    - kNN algorithm
+    - Decision Tree classifier
 - Regression algorithms
   - Linear regression
   - Ridge regression
