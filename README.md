@@ -25,4 +25,5 @@ By working through this project I was able ,among other things, of learning the 
  
  Much of the preparation work can be seen in the jupyter notebook 'Assignment1_2.ipnyb' (THIS NEED CLEANING,VERY ROUGH CODE)
   
+I have also uploaded my feedback for the project in the '1325458.txt' file.
   
