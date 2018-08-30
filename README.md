@@ -21,6 +21,8 @@ By working through this project I was able ,among other things, of learning the 
 - Test set valiation/ Cross validation
   
   
-  The file answer.pdf contains my final solution and my working of the best models and parameters.
+  The file answer.pdf contains my final solution and my working of the best models and parameters while the files 'predictClass.py' and 'predictTNA.py' are the actual submitted files for the assignment.
+ 
+ Much of the preparation work can be seen in the jupyter notebook 'Assignment1_2.ipnyb' (THIS NEED CLEANING,VERY ROUGH CODE)
   
   
