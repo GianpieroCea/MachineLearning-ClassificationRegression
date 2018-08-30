@@ -5,10 +5,10 @@ The Assignment was called "Plant vs Animals", the full specification of the assi
 
 The Goal of this project was to get proficient at using the basic python stack for data science and machine learning (numpy,pandas,sklearn etc) to perform some basic regression and classification of some corrupt data (this was unkown at the beginning).
 
-By working through this project I was able ,among other things, of learning the theory and the preactice of:
+By working through this project I was able ,among other things, to learn the theory and the practice of:
 - Basic data exploration and visualisation
 - Preprocessing and data cleaning
-- Hyperparemteres optimization via grid search
+- Hyperparameteres optimization via grid search
 - Feature Selection
 - Classification algorithms:
     - kNN algorithm
@@ -18,10 +18,10 @@ By working through this project I was able ,among other things, of learning the 
   - Ridge regression
   - Lasso regression
   - Decision Tree regression
-- Test set valiation/ Cross validation
+- Test set validation/ Cross validation
   
   
-  The file answer.pdf contains my final solution and my working of the best models and parameters while the files 'predictClass.py' and 'predictTNA.py' are the actual submitted files for the assignment.
+  The file 'answer.pdf' contains my final solution and my working of the best models and parameters while the files 'predictClass.py' and 'predictTNA.py' are the actual submitted files for the assignment.
  
  Much of the preparation work can be seen in the jupyter notebook 'Assignment1_2.ipnyb' (THIS NEED CLEANING,VERY ROUGH CODE)
   
